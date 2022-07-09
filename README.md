@@ -19,4 +19,5 @@ Min value?
 Pandas are also able to delete rows that are not relevant, or contains wrong values, like empty or NULL values. This is called cleaning the data.
 
 source: https://www.w3schools.com/python/pandas/pandas_intro.asp
+
 reference : https://www.youtube.com/playlist?list=PL_1pt6K-CLoDMEbYy2PcZuITWEjqMfyoA
